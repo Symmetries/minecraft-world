@@ -1,0 +1,46 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-20 19:43:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-03-20 19:43:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-03-20 19:41:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-20 19:43:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-03-20 19:41:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2020-03-20 19:41:23 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-03-20 19:43:26 -0400",
+      "minecraft:taiga": "2020-03-20 19:33:04 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

@@ -1,0 +1,17 @@
+[12:22:27] [Server thread/INFO]: Unknown command
+[12:22:27] [Server thread/INFO]: X<--[HERE]
+[12:22:29] [Server thread/INFO]: Unknown command
+[12:22:29] [Server thread/INFO]: X<--[HERE]
+[12:22:30] [Server thread/INFO]: Stopping the server
+[12:22:30] [Server thread/INFO]: Stopping server
+[12:22:30] [Server thread/INFO]: Saving players
+[12:22:30] [Server thread/INFO]: Saving worlds
+[12:22:30] [Server thread/INFO]: Saving chunks for level 'CoronaBurnside'/minecraft:overworld
+[12:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (CoronaBurnside): All chunks are saved
+[12:22:30] [Server thread/INFO]: Saving chunks for level 'CoronaBurnside'/minecraft:the_nether
+[12:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:30] [Server thread/INFO]: Saving chunks for level 'CoronaBurnside'/minecraft:the_end
+[12:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:22:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (CoronaBurnside): All chunks are saved
+[12:22:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
